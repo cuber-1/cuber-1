@@ -5,7 +5,6 @@ I'm an undergraduate at the **University of Maryland, College Park** studying **
 ## 🔭 What I'm Working On
 
 - **Niantic Spatial Project** — Leading a team of 6 developers building a location-aware AR application using the Niantic Spatial toolkit at UMD's XR Club.
-- **Autonomous Micro Drone Research** — Previously worked as a research assistant at UMBC's VLSI-SoC Lab, optimizing onboard ML inference and multisensory localization for micro drones.
 
 ## 🏆 Awards
 
