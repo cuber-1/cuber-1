@@ -4,7 +4,7 @@ I'm an undergraduate at the **University of Maryland, College Park** studying **
 
 ## 🔭 What I'm Working On
 
-- **Niantic Spatial Project** — Leading a team of 6 developers building a location-aware AR application using the Niantic Spatial toolkit at UMD's XR Club.
+- **Niantic Spatial Project** — Working with a team of 6 developers building a location-aware AR application using the Niantic Spatial toolkit at UMD's XR Club.
 
 ## 🏆 Awards
 
